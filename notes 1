@@ -1,0 +1,19 @@
+# score=10
+# score=20
+# score=50
+# print (score)
+
+# game = "Minecraft"
+# print(f"your favorite game is {game}")
+
+# favfood = "Pizza"
+# print(F"your favorite food ever is {favfood})
+
+# + is addition
+# - is subtraction
+# * is multiplacation
+# / is divition
+# % shows the remainder 
+# ** is for exponents
+# // is for floor division
+
