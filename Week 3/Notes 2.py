@@ -31,12 +31,12 @@
 # phrase='hello, world'
 # print(phrase.upper())
 # print(phrase.lower())
-fruits=['apple','banana','orange']
-numbers=[10,2,3,5]
-mixed=[100, 'score',3.5]
-print(numbers)
-print(fruits[0]) # prints the first item in the list
-print(fruits[0:2])
+# fruits=['apple','banana','orange']
+# numbers=[10,2,3,5]
+# mixed=[100, 'score',3.5]
+# print(numbers)
+# print(fruits[0]) #prints the first item in the list
+# print(fruits[0:2])
 # how to add a item to a list
-fruits.append('kiwi')
-print(fruits)
+# fruits.append('kiwi')
+# print(fruits)
