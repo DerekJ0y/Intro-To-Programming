@@ -1,4 +1,3 @@
 If you are reading this hello
 If you are attempting to write create a new file and add a smile
 If you are appending add a smile at the end
-:)
